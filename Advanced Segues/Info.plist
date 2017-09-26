@@ -34,6 +34,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUsageDescription</key>
+	<string>I want to save this and show you later</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>I don&apos;t want to miss any Location you have travelled</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
